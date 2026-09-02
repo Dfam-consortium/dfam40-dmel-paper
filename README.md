@@ -1,10 +1,5 @@
-# Dfam 4.0 *Drosophila melanogaster* transposable element libraries
-
-Code for:
-
-> Updated Transposable Element Libraries for *Drosophila melanogaster* in Dfam 4.0
->
-> Clément Goubert, Anthony Gray, Robert Hubley, Travis J. Wheeler, Arian A. F. Smit
+# Code for "Updated Transposable Element Libraries for Drosophila melanogaster in Dfam 4.0" 
+### Clément Goubert, Anthony Gray, Robert Hubley, Travis J. Wheeler, Arian A. F. Smit
 
 ## Scripts
 
